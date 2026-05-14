@@ -21,6 +21,11 @@ describe "Caesar Cipher" do
     expect(caesar_cipher("a123!@#z", 5)).to eq("f123!@#e")
   end
 
+  it "Handles shifts larger than the alphabet size." do
+    expect(caesar_cipher("ABC", 29)).to eq("DEF")
+    expect(caesar_cipher("XYZ", -29)).to eq("UVW")
+  end
+
   it "If 0 is received, does nothing." do
     expect(caesar_cipher("Hello, World!", 0)).to eq("Hello, World!")
   end
