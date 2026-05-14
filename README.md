@@ -34,3 +34,9 @@ Exercise from https://www.theodinproject.com/lessons/ruby-caesar-cipher
    ```
    Output: `"ZABCD"`
 
+# Test
+
+Run the following command:
+```bash
+   rspec --format documentation spec
+   ```
