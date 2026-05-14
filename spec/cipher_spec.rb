@@ -21,7 +21,11 @@ describe "Caesar Cipher" do
     expect(caesar_cipher("a123!@#z", 5)).to eq("f123!@#e")
   end
 
-   it "If 0 is received, does nothing." do
+  it "If 0 is received, does nothing." do
     expect(caesar_cipher("Hello, World!", 0)).to eq("Hello, World!")
+  end
+
+  it "If an empty string is received, does nothing." do
+    expect(caesar_cipher("", 3)).to eq("")
   end
 end
