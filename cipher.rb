@@ -41,9 +41,9 @@ string_to_cipher = ARGV[0]  # "What a string!"
 movements = ARGV[1].to_i    # 5
 
 # Validate string.
-if string_to_cipher.nil? || string_to_cipher.empty?
-  puts "Please provide a string to cipher."
-  exit
+if string_to_cipher.to_s.strip.empty?
+  raise ArgumentError, "Please provide a string to cipher."
 end
+
 
 p caesar_cipher(string_to_cipher, movements)  # "Bmfy f xywnsl!"
