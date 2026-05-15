@@ -28,10 +28,3 @@ Exercise from https://www.theodinproject.com/lessons/ruby-sub-strings
 	ruby substrings.rb "a,b,c,!" Hola!
 	```
 	Output: `{"a" => 1, "!" => 1}`
-
-# Test
-
-Run the RSpec suite with:
-```bash
-rspec --format documentation spec
-```

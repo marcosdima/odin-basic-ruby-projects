@@ -33,10 +33,3 @@ Exercise from https://www.theodinproject.com/lessons/ruby-caesar-cipher
    ruby cipher.rb "ABCDE" -1
    ```
    Output: `"ZABCD"`
-
-# Test
-
-Run the following command:
-```bash
-   rspec --format documentation spec
-   ```
