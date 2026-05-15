@@ -8,6 +8,7 @@ This repository collects exercises from The Odin Project's Ruby course. Each sub
 
 - [cipher](cipher/) — Caesar cipher implementation.
 - [substrings](substrings/) — Substrings counter exercise.
+- [stock](stock/) — Stock picker exercise.
 
 ---
 
