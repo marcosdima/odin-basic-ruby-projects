@@ -5,12 +5,12 @@ Exercise from https://www.theodinproject.com/lessons/ruby-caesar-cipher
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/marcosdima/ruby-caesar-cipher.git
+   git clone https://github.com/marcosdima/odin-basic-ruby-projects.git
    ```
 
 2. **Navigate to the folder:**
    ```bash
-   cd ruby-caesar-cipher
+   cd odin-basic-ruby-projects/cipher
    ```
 
 3. **Run the cipher:**
