@@ -10,7 +10,7 @@ Exercise from https://www.theodinproject.com/lessons/ruby-caesar-cipher
 
 2. **Navigate to the folder:**
    ```bash
-   cd basic/cipher
+   cd odin-ruby-projects/basic/cipher
    ```
 
 3. **Run the cipher:**

@@ -10,7 +10,7 @@ Exercise from https://www.theodinproject.com/lessons/ruby-bubble-sort
 
 2. **Navigate to the folder:**
    ```bash
-   cd basic/bubble_sort
+   cd odin-ruby-projects/basic/bubble_sort
    ```
 
 3. **Run the script:**

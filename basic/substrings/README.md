@@ -10,7 +10,7 @@ Exercise from https://www.theodinproject.com/lessons/ruby-sub-strings
 
 2. **Navigate to the folder:**
 	```bash
-	cd basic/substrings
+	cd odin-ruby-projects/basic/substrings
 	```
 
 3. **Run the script:**

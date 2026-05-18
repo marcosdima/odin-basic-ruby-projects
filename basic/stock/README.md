@@ -10,7 +10,7 @@ Exercise from https://www.theodinproject.com/lessons/ruby-stock-picker
 
 2. **Navigate to the folder:**
    ```bash
-   cd basic/stock
+   cd odin-ruby-projects/basic/stock
    ```
 
 3. **Run the script:**
