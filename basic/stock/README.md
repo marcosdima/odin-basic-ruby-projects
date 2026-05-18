@@ -5,12 +5,12 @@ Exercise from https://www.theodinproject.com/lessons/ruby-stock-picker
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/marcosdima/odin-basic-ruby-projects.git
+   git clone https://github.com/marcosdima/odin-ruby-projects.git
    ```
 
 2. **Navigate to the folder:**
    ```bash
-   cd odin-basic-ruby-projects/stock
+   cd basic/stock
    ```
 
 3. **Run the script:**
@@ -32,11 +32,3 @@ Exercise from https://www.theodinproject.com/lessons/ruby-stock-picker
    ruby stock_picker.rb "13,5,3,5,10"
    ```
    Output: `[2, 4]`
-
-
-# Test
-
-Run the RSpec suite with:
-```bash
-rspec --format documentation spec
-```

@@ -5,12 +5,12 @@ Exercise from https://www.theodinproject.com/lessons/ruby-bubble-sort
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/marcosdima/odin-basic-ruby-projects.git
+   git clone https://github.com/marcosdima/odin-ruby-projects.git
    ```
 
 2. **Navigate to the folder:**
    ```bash
-   cd odin-basic-ruby-projects/bubble_sort
+   cd basic/bubble_sort
    ```
 
 3. **Run the script:**

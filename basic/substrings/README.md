@@ -5,12 +5,12 @@ Exercise from https://www.theodinproject.com/lessons/ruby-sub-strings
 
 1. **Clone the repository:**
 	```bash
-	git clone https://github.com/marcosdima/odin-basic-ruby-projects.git
+	git clone https://github.com/marcosdima/odin-ruby-projects.git
 	```
 
 2. **Navigate to the folder:**
 	```bash
-	cd odin-basic-ruby-projects/substrings
+	cd basic/substrings
 	```
 
 3. **Run the script:**
