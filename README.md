@@ -5,7 +5,7 @@ The goal is to practice Ruby fundamentals, testing, and object-oriented design a
 
 ## Sections
 
-- [Basic Ruby Projects](basic/README.md) - procedural Ruby exercises.
-- [Object-Oriented Programming Basics](OPP/README.md) - OOP-focused exercises.
+- [Basic Ruby Projects](basic/) - procedural Ruby exercises.
+- [Object-Oriented Programming Basics](OPP/) - OOP-focused exercises.
 
 Course reference: https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby
